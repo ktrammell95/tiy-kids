@@ -2,9 +2,26 @@ body {
   background-color: lightblue;
 }
 
+/* ------- Header Styling ------- */
+
+header {
+  background-color: #919492;
+}
+
 h1 {
   color: #FF00AD;
 }
+
+nav {
+  width: 940px;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline;
+}
+
+/* -------  ------- */
 
 img {
   height: 200px;
