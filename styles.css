@@ -6,7 +6,12 @@ h1 {
   color: #FF00AD;
 }
 
-div {
+img {
+  height: 200px;
+  width: auto;
+}
+
+.toys {
   background-color: #C1C7C4;
 }
 
