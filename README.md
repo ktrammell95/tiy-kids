@@ -95,6 +95,6 @@
     - CSS Maker is a free tool to experiment with CSS properties and values and generate a simple stylesheet for your site, http://enjoycss.com/
     - Button generator, http://css3buttongenerator.com/
 
-    - Online Learning
-      - Free Code Camp, http://freecodecamp.com/
-      - Pluralsight Basic HTML for Kids, http://www.pluralsight.com/courses/teaching-kids-basic-html
+  - Online Learning
+    - Free Code Camp, http://freecodecamp.com/
+    - Pluralsight Basic HTML for Kids, http://www.pluralsight.com/courses/teaching-kids-basic-html
