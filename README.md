@@ -1,4 +1,4 @@
-# The Iron Yard Tampa/ St.Petersburg Kids HTML Course
+# The Iron Yard Tampa/ St. Petersburg, FL Kids HTML Course
 
 ## Introduction
   - My name is Katherine Trammell
@@ -12,6 +12,7 @@
   - How to create an HTML and CSS documents using Atom
   - How to see your work using Chrome or another web browser
   - What are HTML tags/elements?
+  - Building a webpage from scratch
   - How to style a website using CSS
   - What tools are out there to help you learn?
 
@@ -25,3 +26,28 @@
   - What is CSS?
       - CSS stands for Cascading Style Sheet
       - A style sheet language used for describing the look and formatting of a document written in a markup language
+
+  - Learn how Legos and coding are alike
+  - Introduction to CodePen.io (http://codepen.io/)
+  - Learn about basic tags to get us started
+  - Example of how to design a webpage
+
+## Week 2
+
+  - Quick review of Week 1
+  - Introduction to Atom
+  - Creating the files we will need
+  - Getting started on our website
+
+## Week 3
+
+  - Quick review of Week 2
+
+## Week 4
+
+  - Quick review of Week 3
+
+## Week 5
+
+  - Quick review of Week 4
+  - Finishing up our page
