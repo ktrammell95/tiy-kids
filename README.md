@@ -88,5 +88,9 @@
     - Pirate Ipsum, http://pirateipsum.me/
     - Space Ipsum, http://spaceipsum.com/
 
-  - Getting fancy with Styling
-    - Box-shadows/ Border-Radius/ Gradients, http://www.cssmatic.com/
+  - Getting fancy with Styling / CSS Generators
+    - Box-shadows/ Border-Radius/ Gradients and more, http://www.cssmatic.com/
+    - Border Radius/ Box Shadow/ Text Shadow/ RGBA/ and more, http://css3generator.com/
+    - Gradients, http://www.colorzilla.com/gradient-editor/
+    - CSS Maker is a free tool to experiment with CSS properties and values and generate a simple stylesheet for your site, http://enjoycss.com/
+    - Button generator, http://css3buttongenerator.com/
