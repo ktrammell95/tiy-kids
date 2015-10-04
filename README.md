@@ -1,6 +1,4 @@
-# The Iron Yard
-# Tampa/ St. Petersburg, FL
-# Kids HTML Course
+# The Iron Yard - Tampa Kids HTML Course
 
 ## Introduction
   - My name is Katherine Trammell
