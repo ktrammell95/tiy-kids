@@ -3,12 +3,7 @@ body {
   color: #46433A;
 }
 
-/* ------- Header Styling ------- */
-
-header {
-  width: 100%;
-  border-bottom: 5px solid #46433A;
-}
+/* Controls overall text settings */
 
 h1 {
   color: #CE534D;
@@ -36,10 +31,21 @@ a:hover {
   font-size: 20px;
 }
 
+/* ------- Header Styling ------- */
+
+header {
+  width: 100%;
+  border-bottom: 5px solid #46433A;
+}
+
 header div {
   width: 85%;
   margin: auto;
   text-align: center;
+}
+
+nav ul {
+  padding: 0;
 }
 
 nav ul li {

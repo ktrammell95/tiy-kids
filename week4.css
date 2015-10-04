@@ -1,0 +1,98 @@
+body {
+  background-color: #DED4B9;
+  color: #46433A;
+}
+
+/* Controls overall text settings */
+
+h1 {
+  color: #CE534D;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: #46433A;
+  text-transform: uppercase;
+}
+
+h3, h4, h5, h6 {
+  color: #64B6B1;
+  text-align: center;
+}
+
+a {
+  color: #CE534D;
+  text-decoration: none;
+}
+
+/* ------- Header Specific Styling ------- */
+
+header {
+  width: 100%;
+  border-bottom: 5px solid #46433A;
+}
+
+header div {
+  width: 85%;
+  margin: auto;
+  text-align: center;
+}
+
+nav ul {
+  padding: 0;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline;
+  padding: 0 20px;
+}
+
+/* -------  ------- */
+
+section {
+ border-bottom: 2px solid #46433A;
+}
+
+.about, .pictures {
+ width: 85%;
+ margin: auto;
+}
+
+.list {
+  display: inline-block;
+   padding: 0 40px;
+   width: 33%;
+   box-sizing: border-box; <!--The width and height properties (and min/max properties) includes content, padding and border, but not the margin-->
+}
+
+.pictures {
+ padding: 0 0 25px;
+}
+
+.picture {
+ display: inline-block;
+ width: 33%;
+ text-align: center;
+}
+
+img {
+ width: 75%;
+ height: auto;
+ /*border-radius: 100%;
+ -webkit-box-shadow: 13px 13px 63px 0px rgba(0,0,0,0.75);
+ -moz-box-shadow: 13px 13px 63px 0px rgba(0,0,0,0.75);
+ box-shadow: 13px 13px 63px 0px rgba(0,0,0,0.75);*/
+}
+
+/*img:hover {
+ -moz-transform: scale(1.5);
+ -webkit-transform: scale(1.5);
+ -o-transform: scale(1.5);
+ -ms-transform: scale(1.5);
+ transform: scale(1.5);
+}*/
+
+.activities ul li{
+ list-style: square;
+}
