@@ -33,6 +33,18 @@
   - Learn about basic tags to get us started
   - Example of how to design a webpage
 
+  - Homework
+    - Decide what topic you would like to build your page about
+      - Your family
+      - Your pet
+      - Your favorite sport/activity
+      - Your favorite food
+      - Make it about something you enjoy!
+    - Think about colors you might like to use
+      - Need inspiration try:
+        - W3C Color Picker, http://www.w3schools.com/tags/ref_colorpicker.asp
+        - Colourlovers, http://www.colourlovers.com/
+
 ## Week 2
 
   - Quick review of Week 1
