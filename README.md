@@ -5,6 +5,7 @@
     - Who am I?
     - What do I do?
   - Meet the Teaching Assistant(s)
+  - What the final project will look like (http://ktrammell95.github.io/tiy-kids/)
 
 ## Topics we will cover during this course
   - What is HTML?
