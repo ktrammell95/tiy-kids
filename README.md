@@ -74,6 +74,9 @@
     - CodePen.io, http://codepen.io/
     - JSbin, http://jsbin.com/
 
+  - Shortening links
+    - Tiny URL, http://tinyurl.com/
+
   - Picking Colors
     - W3C Color Picker, http://www.w3schools.com/tags/ref_colorpicker.asp
     - Colourlovers, http://www.colourlovers.com/
