@@ -48,6 +48,8 @@
   - Quick review of Week 1
   - Reference site (http://ktrammell95.github.io/tiykids-reference/)
   - Getting started on our website
+  - Lorem Ipsum
+  - Intro to IDs and Classes
 
 ## Week 3
 
