@@ -47,8 +47,6 @@
 
   - Quick review of Week 1
   - Reference site (http://ktrammell95.github.io/tiykids-reference/)
-  - Introduction to Atom
-  - Creating the files we will need
   - Getting started on our website
 
 ## Week 3
